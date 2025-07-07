@@ -16,6 +16,6 @@ Ce projet est une application web développée en **java** pour la gestion des e
 - **Java (JSP / Servlets)**
 - **HTML5 / CSS3**
 - **JDBC** pour la connexion à la base de données
-- **MySQL** ou **PostgreSQL** (selon ton choix)
+- **MySQL**
 - **Apache Tomcat** comme serveur d’application
 
